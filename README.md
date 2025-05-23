@@ -39,12 +39,34 @@
 ### 📂 Download CV / View Portfolio
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV" />
+  <a href="https://yourdomain.com/cv.pdf" target="_blank">
+    <button style="
+      background-color:#007BFF;
+      border:none;
+      border-radius:6px;
+      padding:10px 20px;
+      color:white;
+      font-weight:bold;
+      cursor:pointer;
+      margin-right: 15px;
+    ">
+      📄 Download CV
+    </button>
   </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-green?style=for-the-badge&logo=react" alt="View Portfolio" />
+  
+  <a href="https://yourportfolio.com" target="_blank">
+    <button style="
+      background-color:#007BFF;
+      border:none;
+      border-radius:6px;
+      padding:10px 20px;
+      color:white;
+      font-weight:bold;
+      cursor:pointer;
+    ">
+      🌐 View Portfolio
+    </button>
   </a>
 </p>
+
 ---
